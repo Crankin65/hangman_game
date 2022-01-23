@@ -1,0 +1,9 @@
+The game word is ["c", "h", "a", "u", "n", "t"]. 
+
+          The past guesses are ["a", "e", "h", "i"] 
+
+          The word so far is ["_ ", "h", "a", "_ ", "_ ", "_ "]. 
+
+          The current turn is 5. 
+
+          The number of wrong guess is 2.
