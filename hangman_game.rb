@@ -2,6 +2,7 @@
 - Update way to open save state
 - put option to guess entire word or lose 
 - Make sure save game is not part of guess array
+- Weird issue with duplicate letters, look into 
 =end
 
 # Read word document, randomly pick word, assign to array, create $game_word)array
